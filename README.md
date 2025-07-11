@@ -1,4 +1,6 @@
-## Hi there 👋
+## Andrea Nicole Cadima Rodriguez
+   Ingenieria de sistemas 
+   "La mejor forma de predecir el futuro es crearlo." 
 
 <!--
 **andreanicolecadimarodriguez/andreanicolecadimarodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
